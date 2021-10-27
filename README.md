@@ -1,2 +1,4 @@
+## Proyecto Unidad uno para Programación Web
 # Asteroids
-Asteroids game 
+
+El juego de toda la vida, Asteroids, de Atari.
